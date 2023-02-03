@@ -1,0 +1,5 @@
+/import-data-consumer/dist/
+/import-data-consumer/node_modules/
+/import-data-producer/node_modules/
+/import-data-producer/dist/
+/.idea/
